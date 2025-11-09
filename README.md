@@ -1,7 +1,10 @@
-📊 Quantitative Data Analysis Project
+📊 Employee Income Statement Analysis Project
+
 🧾 Project Overview
 
-The Quantitative Data Analysis Project is designed to explore and analyze data across multiple dimensions, including product performance, sample data, and pivot-based summaries. This Excel-based project demonstrates how structured datasets can be transformed into meaningful insights using Excel formulas, pivot tables, and visualization techniques.
+The 📊 Employee Income Statement Analysis Project
+
+ is designed to explore and analyze data across multiple dimensions, including product performance, sample data, and pivot-based summaries. This Excel-based project demonstrates how structured datasets can be transformed into meaningful insights using Excel formulas, pivot tables, and visualization techniques.
 
 The project integrates multiple sheets, each serving a unique analytical purpose — from raw data organization to summary dashboards.
 
